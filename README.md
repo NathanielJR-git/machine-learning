@@ -33,7 +33,8 @@ git clone https://github.com/NathanielJR-git/machine-learning.git
 
 Here are some resources I’ve found helpful during my learning journey:
 
-Coursera Machine Learning by Andrew Ng
-Udemy Python for Data Science and Machine Learning Bootcamp by Jose Portilla
+* Coursera Machine Learning by Andrew Ng
+* Udemy Python for Data Science and Machine Learning Bootcamp by Jose Portilla
+
 
 This repository is primarily for my personal learning, but if you have suggestions or improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
